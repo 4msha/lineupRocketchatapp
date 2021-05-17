@@ -1,0 +1,18 @@
+{
+    "id": "41c0c993-169c-4f94-a199-836da0d3792b",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "firdausia fatima",
+        "homepage": "https://github.com/4msha",
+        "support": "https://github.com/4msha"
+    },
+    "name": "lineup",
+    "nameSlug": "lineup",
+    "classFile": "LineupApp.ts",
+    "description": "Describing task in general room\u001b[",
+    "implements": [
+        "IUIKitInteractionHandler"
+    ]
+}
